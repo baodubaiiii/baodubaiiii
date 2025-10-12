@@ -83,10 +83,7 @@
 ## 🎵 Song I listen to 
 <div align="center">
   
-[![](https://arpy8-pastfm-backend.hf.space/live?user=ElectroHeavenVN)](https://www.last.fm/user/ElectroHeavenVN)
-<img hspace="10"></img>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko3b7b7zfzs4btqipoeq5edrq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yko3b7b7zfzs4btqipoeq5edrq&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ippytvwmu4myhgr2jgrv4gm4w4&cover_image=true&theme=default&show_offline=false&background_color=7d3131&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 ## 📊 GitHub Stats
