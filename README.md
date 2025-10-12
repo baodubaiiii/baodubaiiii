@@ -89,26 +89,24 @@
 
 </div>
 
-## 📺 Anime I watch
-<div align="center">
-  
-[![](https://gist.githubusercontent.com/ElectroHeavenVN/41969e96bb641509e5fb2d2fc4729158/raw/MyAnimeList.svg)](https://myanimelist.net/profile/ElectroHeavenVN)
-
-</div>
+## 📊 GitHub Stats
+![Bảo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubai-bao&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubai-bao&layout=compact&theme=radical)
 
 ---
 
-### 💬 Join my Discord server!
-<div align="center"> 
-  
-[![My Discord server](https://discord.com/api/guilds/1115634791321190420/widget.png?style=banner4)](https://discord.gg/ekMDKCa5jQ)
-
-</div>
+## 💬 Quotes I Like
+> “Performance isn’t an afterthought — it’s a design choice.”  
+> “Good code is like a good game: smooth, responsive, and invisible when it works.”
 
 ---
 
-<div align="center"> 
-  
-[![](Lucky.gif)](https://www.google.com/logos/2020/kitsune/rc7/kitsune20.html)
+## 📫 Contact
+- 💌 Email: dubai@example.com  
+- 🧠 Discord: `Bảo#1234`  
+- 🌐 Website: [dubai-bao.dev](https://dubai-bao.dev)  
+- 🧱 GitHub: [github.com/dubai-bao](https://github.com/dubai-bao)
 
-</div>
+---
+
+⭐ *If you like my work, consider following or starring my repositories!*
