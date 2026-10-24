@@ -1,5 +1,5 @@
 # Hi there 👋
-**I'm Bảo Dubai, a student at Sonadezi College!**
+**I'm Bảo Dubai!**
 - I'm a programmer and a reverse engineer who loves to tackle Unity-based games, c# applications, and other mysterious programs and software!
 - I also love electrical engineering, embedded programming, and DIY!
 <!--- - Sadly, I don't have any girlfriends. -->
